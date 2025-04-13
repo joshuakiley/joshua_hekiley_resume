@@ -1,6 +1,6 @@
 # Joshua HeKiley
 
-Brooklyn, NY | (475) 339-5269 | joshua.hekiley@gmail.com | [linkedin.com/in/joshua-kiley](https://linkedin.com/in/joshua-kiley) | [github.com/joshuakiley](https://github.com/joshuakiley)
+Brooklyn, NY | [linkedin.com/in/joshua-kiley](https://linkedin.com/in/joshua-kiley) | [github.com/joshuakiley](https://github.com/joshuakiley)
 
 ---
 
