@@ -6,7 +6,7 @@ Brooklyn, NY | [linkedin.com/in/joshua-kiley](https://linkedin.com/in/joshua-kil
 
 ## Summary
 
-Since 2018 I’ve been deep diving into IT operations, finding fascination in improving system efficiency and security, especially through automation (Python and Bash are my go-to tools, alongside PowerShell and Power Automate, and I'm exploring Firebase Studio). I’ve led projects unifying MDM systems, rolling out passkeys, and managing identity platforms like Entra ID and Google Workspace. As a teacher turned IT Engineer, I bring a passion for technology and clear communication to solving challenging IT problems and contributing technical expertise to innovative teams.
+He bridged worlds – from the classroom to the complex codebases of modern tech. Once an educator skilled in making the complex clear, Joshua HeKiley now thrives in the engine rooms of IT, driven by a fascination for efficiency and a passion for empowering users. He's stared down tangled systems, architected transitions away from opaque processes, and wielded code (Python, Bash, PowerShell) to automate the mundane and unlock productivity. Now, with experience consuming APIs and an insatiable curiosity for new languages (like Rust), he's ready for his next challenge: championing developers, demystifying APIs, and building the tools that help innovators create the future.
 
 ---
 
